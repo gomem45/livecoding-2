@@ -1,0 +1,11 @@
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\bin\Debug\netcoreapp3.0\LiveCoding2.exe
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\bin\Debug\netcoreapp3.0\LiveCoding2.deps.json
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\bin\Debug\netcoreapp3.0\LiveCoding2.runtimeconfig.json
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\bin\Debug\netcoreapp3.0\LiveCoding2.runtimeconfig.dev.json
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\bin\Debug\netcoreapp3.0\LiveCoding2.dll
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\bin\Debug\netcoreapp3.0\LiveCoding2.pdb
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\obj\Debug\netcoreapp3.0\LiveCoding2.csprojAssemblyReference.cache
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\obj\Debug\netcoreapp3.0\LiveCoding2.AssemblyInfoInputs.cache
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\obj\Debug\netcoreapp3.0\LiveCoding2.AssemblyInfo.cs
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\obj\Debug\netcoreapp3.0\LiveCoding2.dll
+C:\Showcases\launchcode\lc101\LiveCoding2\LiveCoding2\obj\Debug\netcoreapp3.0\LiveCoding2.pdb
